@@ -10,7 +10,7 @@ As a user, I would like to complete a virtual consultation, so I can get quick a
 
 ### User Story 2
 
-As a user, I would like to have the ability to store multiple consultations, so I can refer to them in the future and plan accordingly.
+As a user, I would like to have the ability to edit, delete, and store multiple consultations, so I can refer to them in the future and plan accordingly.
 
 ### User Story 3
 
